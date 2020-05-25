@@ -1,0 +1,1 @@
+web: gunicorn reviewScrapper_app:reviewScrapper_APP
